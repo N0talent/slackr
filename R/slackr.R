@@ -187,3 +187,8 @@ slackr_msg <- function(txt="",
   return(invisible())
 
 }
+
+slackr_channels.history <- function()
+{
+  warning("Not working")
+}
